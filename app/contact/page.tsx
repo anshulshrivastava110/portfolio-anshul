@@ -119,7 +119,7 @@ export default function Contact() {
                     {
                       icon: Linkedin,
                       label: "LinkedIn",
-                      href: "#",
+                      href: "https://www.linkedin.com/in/anshul-shrivastava-039030359",
                       color: "from-blue-50 to-blue-100",
                       textColor: "text-blue-700",
                       borderColor: "border-blue-200",
@@ -127,7 +127,7 @@ export default function Contact() {
                     {
                       icon: Github,
                       label: "GitHub",
-                      href: "#",
+                      href: "https://github.com/anshulshrivastava110",
                       color: "from-gray-50 to-gray-100",
                       textColor: "text-gray-700",
                       borderColor: "border-gray-200",

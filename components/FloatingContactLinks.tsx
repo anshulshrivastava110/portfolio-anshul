@@ -13,13 +13,13 @@ export default function FloatingContactLinks() {
     },
     {
       icon: Linkedin,
-      href: "#",
+      href: "https://www.linkedin.com/in/anshul-shrivastava-039030359/",
       color: "from-blue-400 to-blue-600",
       label: "LinkedIn",
     },
     {
       icon: Github,
-      href: "#",
+      href: "https://github.com/anshulshrivastava110",
       color: "from-gray-400 to-gray-600",
       label: "GitHub",
     },
